@@ -1,8 +1,7 @@
 # Guia de Configuração e Uso do Git
 
-comandos del curso:
+comandos do curso:
 
-Claro, aquí tienes todos los comandos Git junto con sus explicaciones, dentro de un único bloque de código Markdown:
 
 
 ```bash
